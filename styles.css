@@ -1,9 +1,21 @@
 /* styles.css */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Comic sans-serif, cursive;
     margin: 0;
     padding: 0;
     line-height: 1.6;
     background-color: #cdab94;
     color: #333;
+ }
+ h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #8B6F40 ;
+    font-size: xx-large;
+    text-align: center;
+ }
+ img{
+    width: 700px;
+    height: 600px;
+    border-radius: 30px;
+    margin-left: 500px;
  }
